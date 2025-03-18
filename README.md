@@ -5,7 +5,7 @@ I'm a student at TechniSchools, a private technical programming school focused o
 
 ## 🛠️ Tech Stack
 - **Frontend:** JavaScript, TypeScript, React
-- **Backend:** Python
+- **Backend:** Python, ExpressJS
 - **Additional Languages:** Java, C++
 - **Tech Interests:** Artificial Intelligence and exploring ways to implement AI solutions in practical applications
 
