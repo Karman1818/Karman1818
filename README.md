@@ -18,6 +18,7 @@ Having started programming at an early age, I've had the opportunity to work on 
 
 ## 📊 My Stats
 
+![Karman1818's Stats](https://github-readme-stats.vercel.app/api?username=Karman1818&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![Karman1818's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karman1818&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Connect With Me
