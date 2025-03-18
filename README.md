@@ -22,7 +22,7 @@ Having started programming at an early age, I've had the opportunity to work on 
 
 ![Karman1818's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karman1818&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-## 📫 Connect With Me
+## 📫 Contact With Me
 If you'd like to reach out or see more of my work, you can find me on:
 
 <div align="center">
