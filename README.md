@@ -18,8 +18,6 @@ Having started programming at an early age, I've had the opportunity to work on 
 ## 📫 Connect With Me
 If you'd like to reach out or see more of my work, you can find me on:
 
-## 📫 Connect With Me
-
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/marceli-karman/](https://www.linkedin.com/in/marceli-karman-9503632b0/))
