@@ -7,6 +7,7 @@ I'm a student at TechniSchools, a private technical programming school focused o
 - **Frontend:** JavaScript, TypeScript, React
 - **Backend:** Python, ExpressJS
 - **Additional Languages:** Java, C++
+- **Databases:** MsSQL, MySQL, PostgreSQL and noSQL databases like Firestore or MongoDB
 - **Tech Interests:** Artificial Intelligence and exploring ways to implement AI solutions in practical applications
 
 ## 🎯 Professional Goals
