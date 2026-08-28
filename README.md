@@ -1,26 +1,27 @@
 # 👋 Hi, I'm Marceli Karman
 
-## About Me
-I'm a student at TechniSchools, a private technical programming school focused on developing future IT professionals. My journey in programming began at the age of 12, which has given me extensive experience with various types of software development projects.
+## 👨‍💻 About Me
+I'm a Software Engineering student at Techni Schools (Technical College of Programming) in Lublin, Poland — a private technical school focused on developing future IT professionals. My journey in programming began at the age of 12, which has given me extensive experience with various types of software development projects.
 
 ## 🛠️ Tech Stack
 - **Frontend:** JavaScript, TypeScript, React
-- **Backend:** Python, Java, ExpressJS,
-- **Databases:** MsSQL, MySQL, PostgreSQL and noSQL databases like Firestore or MongoDB
-- **Tech Interests:** Artificial Intelligence and exploring ways to implement AI solutions in practical applications
+- **Backend:** Python, Java, Express.js
+- **Databases:** MSSQL, MySQL, PostgreSQL, and NoSQL databases like Firestore and MongoDB
+- **Cybersecurity:** OWASP Top 10, Web Vulnerabilities (XSS, SQLi, Prompt injections), Burp Suite, Nmap, Kali Linux, OSINT
+- **Interests:** Cybersecurity, Web development and exploring creative applications of AI in development, security, and everyday life
+
+## 📈 Experience & Projects
+Having started coding at an early age, I've built a solid foundation of technical knowledge and problem-solving skills. 
+
+- 💼 **Current:** Co-founder at **[webwind.pl](https://webwind.pl)**, building websites for small and medium-sized companies.
+- 🏢 **Past:** Gained experience completing internships in the IT departments of few non-technical companies.
+- 🔍 **Looking for:** A part-time role as an Intern/Junior in Web Development or Cybersecurity.
 
 ## 🎯 Professional Goals
-My ambition is to establish myself as a respected professional developer in the tech industry. I'm committed to continuously improving my skills and embracing new technologies that will help me grow as a programmer.
+My ambition is to become a top-tier specialist in the fields of cybersecurity, web development, and entrepreneurship, while always finding joy in exploring new tech solutions.
 
-## 📈 Experience
-Having started programming at an early age, I've had the opportunity to work on numerous diverse projects. This early start has helped me build a solid foundation of technical knowledge and problem-solving skills.
-
-## 📊 My Stats
-
-![Karman1818's Stats](https://github-readme-stats.vercel.app/api?username=Karman1818&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-## 📫 Contact With Me
-If you'd like to reach out or see more of my work, you can find me on:
+## 📫 Let's Connect
+If you'd like to reach out, collaborate, or see more of my work, feel free to contact me:
 
 <div align="center">
   
