@@ -4,11 +4,12 @@
 I'm a Software Engineering student at Techni Schools (Technical College of Programming) in Lublin, Poland — a private technical school focused on developing future IT professionals. My journey in programming began at the age of 12, which has given me extensive experience with various types of software development projects.
 
 ## 🛠️ Tech Stack
-- **Frontend:** JavaScript, TypeScript, React
-- **Backend:** Python, Java, Express.js
-- **Databases:** MSSQL, MySQL, PostgreSQL, and NoSQL databases like Firestore and MongoDB
-- **Cybersecurity:** OWASP Top 10, Web Vulnerabilities (XSS, SQLi, Prompt injections), Burp Suite, Nmap, Kali Linux, OSINT
-- **Interests:** Cybersecurity, Web development and exploring creative applications of AI in development, security, and everyday life
+- **Frontend:** JavaScript & TypeScript, React (Next.js), Tailwind CSS
+- **Backend:** Python (FastAPI, Django, Flask), Node.js (Express.js)
+- **Databases:** PostgreSQL, MySQL, MSSQL, MongoDB, Firestore
+- **Tools & DevOps:** Git, Docker, Postman, Linux, Vercel
+- **Cybersecurity:** OWASP Top 10, Web Vulnerabilities (XSS, SQLi, Prompt Injections), Burp Suite, Nmap, Kali Linux, OSINT
+- **Interests:** Cybersecurity, web development, and exploring creative applications of AI in development, security and everyday life
 
 ## 📈 Experience & Projects
 Having started coding at an early age, I've built a solid foundation of technical knowledge and problem-solving skills. 
